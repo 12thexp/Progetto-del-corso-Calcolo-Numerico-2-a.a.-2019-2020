@@ -1,0 +1,78 @@
+# depslib dependency file v1.0
+1594129579 source:/home/squiddy/Downloads/Calcolo_2_LAB/esercizi/runge_kutta_immersi/main.cpp
+	<iostream>
+	<math.h>
+	<fstream>
+	"../../funzioni/mat_vet.h"
+	"../../funzioni/stampe.h"
+	"../../funzioni/problemi.h"
+	"../../funzioni/Runge_Kutta_matrici.h"
+
+1591110222 /home/squiddy/Downloads/Calcolo_2_LAB/funzioni/mat_vet.h
+
+1587488037 /home/squiddy/Downloads/Calcolo_2_LAB/funzioni/stampe.h
+	<fstream>
+
+1594977508 /home/squiddy/Downloads/Calcolo_2_LAB/funzioni/problemi.h
+
+1591089320 /home/squiddy/Downloads/Calcolo_2_LAB/funzioni/Runge_Kutta_matrici.h
+
+1591110206 source:/home/squiddy/Downloads/Calcolo_2_LAB/funzioni/mat_vet.cpp
+	"mat_vet.h"
+	<iostream>
+	<math.h>
+
+1587487366 source:/home/squiddy/Downloads/Calcolo_2_LAB/funzioni/norme.cpp
+	<iostream>
+	<fstream>
+	<math.h>
+
+1594977522 source:/home/squiddy/Downloads/Calcolo_2_LAB/funzioni/problemi.cpp
+	<math.h>
+	<iostream>
+	"/home/squiddy/Downloads/Calcolo_2_LAB/funzioni/problemi.h"
+
+1591089321 source:/home/squiddy/Downloads/Calcolo_2_LAB/funzioni/Runge_Kutta_matrici.cpp
+	<iostream>
+	<string.h>
+	<math.h>
+	"Runge_Kutta_matrici.h"
+	<iostream>
+	<string.h>
+
+1589230321 source:/home/squiddy/Downloads/Calcolo_2_LAB/funzioni/stampe.cpp
+	<iostream>
+	<fstream>
+	"/home/squiddy/Downloads/Calcolo_2_LAB/funzioni/stampe.h"
+
+1594981237 source:/home/squiddy/Downloads/Calcolo_2_LAB/exam_project3/runge_kutta_immersi/main.cpp
+	<iostream>
+	<math.h>
+	<fstream>
+	"../../funzioni/mat_vet.h"
+	"../../funzioni/stampe.h"
+	"../../funzioni/problemi.h"
+	"../../funzioni/Runge_Kutta_matrici.h"
+
+1591110206 source:/home/squiddy/Downloads/Calcolo_2_LAB/exam_project3/funzioni/mat_vet.cpp
+	"mat_vet.h"
+	<iostream>
+	<math.h>
+
+1591110222 /home/squiddy/Downloads/Calcolo_2_LAB/exam_project3/funzioni/mat_vet.h
+
+1591089321 source:/home/squiddy/Downloads/Calcolo_2_LAB/exam_project3/funzioni/Runge_Kutta_matrici.cpp
+	<iostream>
+	<string.h>
+	<math.h>
+	"Runge_Kutta_matrici.h"
+	<iostream>
+	<string.h>
+
+1591089320 /home/squiddy/Downloads/Calcolo_2_LAB/exam_project3/funzioni/Runge_Kutta_matrici.h
+
+1589230321 source:/home/squiddy/Downloads/Calcolo_2_LAB/exam_project3/funzioni/stampe.cpp
+	<iostream>
+	<fstream>
+	"/home/squiddy/Downloads/Calcolo_2_LAB/funzioni/stampe.h"
+
